@@ -10,3 +10,8 @@ document.getElementById('text').style.color='red';
 function changeColorB(){
 document.getElementById('text').style.color='blue';
 }
+/* avec une seule fonction:
+function changeColor(color){
+document.getElementById('text').style.color;
+}
+*/
